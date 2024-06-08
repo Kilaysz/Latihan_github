@@ -1,7 +1,0 @@
-master
-branch1
-Branch2
-Branch3
-Branch4
-Feature4
-Feature3
