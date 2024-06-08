@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 master
 branch1
 Branch2
-=======
 Branch3
->>>>>>> feature3/3
-=======
 Branch4
->>>>>>> feature4/4
